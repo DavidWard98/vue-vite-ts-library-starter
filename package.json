@@ -2,6 +2,10 @@
   "name": "package-name",
   "private": true,
   "version": "0.0.1",
+  "author": {
+    "name": "Your Name",
+    "email": "example@email.com"
+  },
   "type": "module",
   "files": [
     "dist"
