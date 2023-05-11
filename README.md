@@ -2,7 +2,7 @@
 
 ## Why this starter?
 
-I was looking for a hyper-minimalistic starter for a Vue3 library written in TypeScript and using Vite. I couldn't find one, so I made this one. I hope this provides a good starting place for someone wanting a quick start on a Vue3 Vite library.
+This starter provides a minimalistic starting point for a Vue3 library written in TypeScript and using Vite. It is configured to build a library that can be published to NPM.
 
 ## Installation
 
