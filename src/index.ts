@@ -3,6 +3,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   install: (app: App) => {
-    app.component('LButton', HelloWorld)
+    app.component('HelloWorld', HelloWorld)
   }
 }

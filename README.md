@@ -14,7 +14,7 @@ This starter provides a minimalistic starting point for a Vue3 library written i
 # use the package manager of your choice
 npm i
 yarn
-pnpm 
+pnpm i
 ```
 
 ## Usage
